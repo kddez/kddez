@@ -1,4 +1,4 @@
-<h4 style ="background-color: white"> My name is kddez. I haved my first contact with programation 2 months ago and my dream is be developer C# .NET.  </h4>
+<h4 style ="background-color: white"> My name is kddez. I had my first contact with programming 2 months ago and my dream is to be a C# .NET developer.  </h4>
 
 <div align="center">
   <a href="https://github.com/kddez">
