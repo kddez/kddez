@@ -1,4 +1,4 @@
-<h4 style ="background-color: white"> Me chamo Kddez, sou novo na área de desenvolvimento e pretendo utilizar C# .NET como linguagem principal. </h4>
+<h4 style ="background-color: white"> My name is kddez. I haved my first contact with programation 2 months ago and my dream is be developer C# .NET.  </h4>
 
 <div align="center">
   <a href="https://github.com/kddez">
