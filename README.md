@@ -1,4 +1,4 @@
-<h4 style ="background-color: white"> Meu nome é Marcos Vinicius. /n Estou iniciando minha caminhada na programação e postarei meus projetos aqui.  </h4>
+<h4 style ="background-color: white"> Meu nome é Marcos Vinicius. <br> Estou iniciando minha caminhada na programação e postarei meus projetos aqui.  </h4>
 
 <div align="center">
   <a href="https://github.com/kddez">
